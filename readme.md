@@ -4,3 +4,7 @@
 [ЛР1_bioresp.ipynb](./ЛР1_bioresp.ipynb) (есть вопросы в notebook)  
 Predict a biological response of molecules from their chemical properties  
 https://www.kaggle.com/c/bioresponse/data
+
+**** ЛР2 Классификация  
+на том же датасете Predict a biological response  
+[ЛР2_bioresp.ipynb](./ЛР2_bioresp.ipynb)
