@@ -23,3 +23,6 @@ https://www.kaggle.com/c/bioresponse/data
 по мотивам кейса, рассмотренного в Зимней школе СберУнивера  
 кластеризация, понижение размерности  
 [ЛР7_Disbalanced_dataset_Part_1.ipynb](./ЛР7_Disbalanced_dataset_Part_1.ipynb)
+
+**27.11.2024** ЛР11 RL  
+[ЛР_11_Reinforcement_learning_ipynb.ipynb](./ЛР_11_Reinforcement_learning_ipynb.ipynb)
